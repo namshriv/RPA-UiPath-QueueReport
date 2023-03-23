@@ -23,3 +23,10 @@ Developed Reusable workflows that makes debugging and troubleshooting less time 
 It will save development effort across use cases.
 It can help in speeding up the RPA Queue Report for Daily/Weekly/Monthly reports
 Can be reutilized in workflows where Bot needs to send Daily/Weekly/Monthly Reports to RPA support Team/Business/End Users.
+
+To use this Code -
+
+Tou need to keep excel report templatewith required headers as per process  in specific path and update that path in input variable in code
+update Queue name
+update Queue specific values which are required in Report 
+Run Code
